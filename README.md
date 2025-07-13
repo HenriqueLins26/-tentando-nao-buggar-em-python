@@ -15,4 +15,4 @@ Porque aprender a programar é justamente isso: **tentar não buggar — e se bu
 
 ## Autor
 
-Henrique Lins
+Henrique Lins 🐍🚀
