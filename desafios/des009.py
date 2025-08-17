@@ -1,5 +1,4 @@
 nota = []
-soma = 0
 
 nome = str(input("Digite o nome do aluno: "))
 
