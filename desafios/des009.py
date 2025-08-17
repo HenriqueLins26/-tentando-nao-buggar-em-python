@@ -13,7 +13,7 @@ Notas: {nota}
 Média: {media:.1f}
 Maior nota: {max(nota)}
 Menor nota: {min(nota)}
-Situação: """,end='')
+Situação: """, end='')
 
 if media >= 7:
     print("Aprovado")
